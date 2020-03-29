@@ -7,7 +7,7 @@ This project parses top 5 news from websites and speaks them in Python.
  - Requests
  - PYTTSX3
  
- # Instructions 
+ # Instructions To Use
    ``` 
    pip install -r requirements.txt
    ```
