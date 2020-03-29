@@ -11,6 +11,8 @@ This project parses top 5 news from websites and speaks them in Python.
    ``` 
    pip install -r requirements.txt
    ```
-  - python3 Newsparser.py
+   ```
+   python3 Newsparser.py
+   ```
   
   
